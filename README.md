@@ -1,2 +1,2 @@
 # geojson-grid
-A web app which generates downloadable GeoJSON grids
+An app that generates downloadable GeoJSON grids
